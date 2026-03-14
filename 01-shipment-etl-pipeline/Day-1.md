@@ -1,5 +1,3 @@
----
-
 ## Day 1
 
 # Day 1 — Foundations: OOP, File Handling & Multi-Format Parsing

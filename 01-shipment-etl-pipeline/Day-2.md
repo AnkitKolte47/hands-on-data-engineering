@@ -1,4 +1,3 @@
----
 ## Day 2
 
 # Day 2 — The Pipeline Engine: Generators & Iterators

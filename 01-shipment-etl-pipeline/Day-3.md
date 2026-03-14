@@ -1,4 +1,3 @@
----
 ## Day 3
 
 # Day 3 — Resilience & Output: Exception Handling, Audit & Reporting
