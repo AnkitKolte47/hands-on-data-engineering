@@ -1,5 +1,3 @@
-## Day 3
-
 # Day 3 — Resilience & Output: Exception Handling, Audit & Reporting
 
 **Goal:** Make the pipeline production-grade. By end of Day 3, the pipeline handles every error gracefully, quarantines bad records, writes all outputs atomically, and produces a full audit log of every run.

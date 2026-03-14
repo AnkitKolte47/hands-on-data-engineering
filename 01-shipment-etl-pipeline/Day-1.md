@@ -1,5 +1,3 @@
-## Day 1
-
 # Day 1 — Foundations: OOP, File Handling & Multi-Format Parsing
 
 **Goal:** Build the ingestion layer. By end of Day 1, you should be able to point your pipeline at the `inputs/` folder and get raw Python dictionaries out of any of the 5 file formats.

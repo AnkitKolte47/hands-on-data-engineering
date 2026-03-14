@@ -1,5 +1,3 @@
-## Day 2
-
 # Day 2 — The Pipeline Engine: Generators & Iterators
 
 **Goal:** Build the streaming transformation engine. By end of Day 2, records from Day 1's ingesters will flow lazily through a chain of generator functions — validated, normalised, enriched, and batched — without ever loading the full dataset into memory.
